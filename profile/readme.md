@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/la-nocerina/open-depot/main/mockups/screenshot.png">
+<img src="https://raw.githubusercontent.com/la-nocerina/open-depot/main/screenshot.png">
 
 ---
 
