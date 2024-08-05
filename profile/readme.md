@@ -4,7 +4,7 @@
 ---
 
 ## Hello everybody 🎉
-This space was created as a binder for several dedicated repos from the expansion and improvement of the static old website "La Rocca". Everything you see is property of relative makers, dev and owner of brands.
+This space was created as a binder for several dedicated repos from the expansion and improvement of the old ERP (_Enterprise Resource Planning_) of "La Nocerina". Everything you see is property of relative makers, dev and owner of brands.
 
 ---
 - <b>Remember:</b> This space is not open project.
